@@ -1,0 +1,23 @@
+{
+  "short_name": "Todo List",
+  "name": "Personal Todo List App",
+  "description": "A personal todo list app with CRUD operations, due dates, accuracy tracking, and more",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
